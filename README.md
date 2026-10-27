@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Florencia 👋
 
-<!--
-**fmaltinti/fmaltinti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Architect and BIM professional (since 2018), Project Manager (since 2024).
+I'm building skills in **data analytics, automation and applied AI** for AEC projects.
 
-Here are some ideas to get you started:
+## What I'm working on
+- 📊 Model data quality dashboard (Power BI, Python, SQL)
+- ⚙️ Project management dashboard and automation (Power Automate, pyRevit)
+- 🤖 AI assistant for project documents (LLMs, IFC)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently learning
+Power BI · SQL · Python (pandas) · Power Automate
+
+## Follow my process
+I document my learning and projects publicly. Case studies coming soon.
